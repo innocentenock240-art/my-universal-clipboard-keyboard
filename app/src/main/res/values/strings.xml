@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Universal Clipboard</string>
+    <string name="ime_name">Universal Clipboard Keyboard</string>
+    <string name="ime_subtype_label">English (US) - Universal Clipboard</string>
+</resources>
